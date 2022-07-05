@@ -11,7 +11,11 @@ from setuptools import setup
 setup(
     name="ari",
 <<<<<<< HEAD
+<<<<<<< HEAD
     version="0.1.3",
+=======
+    version="0.1.1",
+>>>>>>> parent of 75f8138 (setup.py: Update for release 0.1.2)
 =======
     version="0.1.1",
 >>>>>>> parent of 75f8138 (setup.py: Update for release 0.1.2)
