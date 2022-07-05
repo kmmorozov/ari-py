@@ -10,7 +10,11 @@ from setuptools import setup
 
 setup(
     name="ari",
+<<<<<<< HEAD
     version="0.1.3",
+=======
+    version="0.1.1",
+>>>>>>> parent of 75f8138 (setup.py: Update for release 0.1.2)
     license="BSD 3-Clause License",
     description="Library for accessing the Asterisk REST Interface",
     long_description=open(os.path.join(os.path.dirname(__file__),
